@@ -1,2 +1,2 @@
 # magma-decompression
-MATLAB code for using water concentration gradients in olivine or cpx to constrain syneruptive magma decompression rates
+MATLAB code for using water concentration gradients in olivine or cpx to constrain syneruptive magma decompression rates. This example is setup to fit a water concentration gradient measured along the crystallographic 'a' axis of an olivine phenocryst from the 1977 eruption of Seguam volcano. Please cite Newcombe et al. 2020, in revision at Journal of Volcanology and Geothermal Research.
